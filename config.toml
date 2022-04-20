@@ -1,0 +1,10 @@
+theme = "tokyonight-storm"
+
+[editor]
+true-color = true
+
+[editor.lsp]
+display-messages = true
+
+[editor.cursor-shape]
+insert = "bar"
