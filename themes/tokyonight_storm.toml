@@ -76,9 +76,9 @@
 
 "diff" = "blue7"
 "diff.plus" = "#283B4D"
-"diff.minus" = #3F2D3D# 
+"diff.minus" = "#3F2D3D" 
 "diff.delta" = "#272D43"
-"diff.delta.moved" = 
+# "diff.delta.moved" = 
 
 #These styles affect editor interface
 
@@ -117,6 +117,7 @@
 
 [palette]
 bg = "#24283b"
+bg_visual = "#364A82"
 fg = "#c0caf5"
 fg_dark = "#a9b1d6"
 fg_gutter = "#3b4261"
